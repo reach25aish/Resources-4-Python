@@ -1,2 +1,2 @@
 # Resources
-Resources related to Python, ServiceNow, Tableau,Statistics
+Resources related to Python.
